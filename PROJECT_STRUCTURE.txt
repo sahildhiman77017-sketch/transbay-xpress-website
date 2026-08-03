@@ -1,0 +1,36 @@
+transbay-xpress-website/
+├── public/
+│   ├── favicon.png
+│   ├── robots.txt
+│   ├── site.webmanifest
+│   └── transbay-logo.png
+├── src/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Authority.jsx
+│   │   ├── Cargo.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Icons.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── SectionHeading.jsx
+│   │   ├── Services.jsx
+│   │   └── Stats.jsx
+│   ├── data/
+│   │   └── company.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── ALL_CODE_FILE_BY_FILE.md
+├── index.html
+├── package.json
+├── postcss.config.js
+├── PROJECT_STRUCTURE.txt
+├── QUICK_START.md
+├── README.md
+├── start-mac-linux.sh
+├── start-windows.bat
+├── tailwind.config.js
+└── vite.config.js

@@ -1,0 +1,16 @@
+{
+  "name": "TransBay Xpress Inc.",
+  "short_name": "TransBay Xpress",
+  "description": "Interstate trucking and freight brokerage services.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#b6f500",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
