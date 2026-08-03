@@ -17,7 +17,7 @@ export default function Contact() {
   };
 
   return (
-    <section id="contact" className="bg-lime-400 py-16 sm:py-20">
+    <section id="contact" className="bg-lime-400/55 py-16 sm:py-20">
       <div className="section-shell">
         <div className="grid overflow-hidden rounded-[2rem] bg-zinc-950 text-white shadow-[0_30px_90px_rgba(0,0,0,0.2)] lg:grid-cols-[1.15fr_0.85fr]">
           <div className="relative p-7 sm:p-10 lg:p-14">
