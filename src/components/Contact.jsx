@@ -47,7 +47,7 @@ export default function Contact() {
                 </a>
               </div>
               <div className="mt-10">
-                <p className="text-sm font-black uppercase tracking-[0.16em] text-white">Company Contact</p>
+                <p className="text-sm font-black uppercase tracking-[0.16em] text-lime-400">Company Contact</p>
                 <div className="mt-7 grid gap-6">
                   <ContactItem icon="phone" label="Phone" value={company.phone} href={`tel:${company.phoneHref}`} />
                   <ContactItem icon="mapPin" label="Head Office" value={company.address} href={company.mapsUrl} external />
